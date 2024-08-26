@@ -1,1 +1,2 @@
 # Act
+HopeHub - WordPress & WooCommerce
